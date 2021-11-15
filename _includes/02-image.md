@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![image of Emoji](https://i.pinimg.com/originals/d8/c7/10/d8c7102faa88259e9b48719eac629e7f.jpg)
